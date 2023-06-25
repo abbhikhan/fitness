@@ -1,0 +1,55 @@
+name: fitness
+description: A new Flutter project.
+
+
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.19.6 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  badges: ^3.1.1
+  bot_toast: ^4.0.3
+  device_preview: any
+  dropdown_button2: ^2.1.2
+  flutter_launcher_icons: ^0.13.1
+  flutter_svg: ^2.0.5
+  google_fonts: ^4.0.4
+  provider: ^6.0.5
+  quickalert: ^1.0.1
+  rename: ^2.1.1
+  firebase_core: ^2.13.0
+  cloud_firestore: ^4.7.1
+  firebase_storage: ^11.2.1
+  firebase_auth: ^4.6.1
+  shared_preferences: ^2.1.1
+  connectivity_plus: ^4.0.1
+  flutter_stripe: ^9.2.0
+  http: ^0.13.6
+  async: ^2.10.0
+  image_picker: ^0.8.7+5
+  google_sign_in: ^6.1.2
+  flutter_facebook_auth: ^5.0.11
+  intl: any
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  
+  
+  flutter_lints: ^2.0.0
+
+
+flutter:
+  
+  uses-material-design: true
+
+  assets:
+    - assets/

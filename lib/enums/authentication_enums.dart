@@ -1,0 +1,4 @@
+enum AuthenticationEnums{
+  user,
+  admin,
+}
